@@ -1,0 +1,1 @@
+print("Allahis 1")
