@@ -1,1 +1,0 @@
-print("Allahis 1")
